@@ -3,7 +3,7 @@ Latest version of PEST (PEST 15)
 
     Compiling instruction:
     1- Downlaod PEST source code from  http://www.pesthomepage.org/getfiles.php?file=pest13.tar.zip
-    2- After unziping, copy the follwing files to the downloaded pest directory (files are located in       https://github.com/hamiddashti/pest)
+    2- After unziping, copy the follwing files to the downloaded pest directory (files are located in https://github.com/hamiddashti/pest)
       -pest.mak
       -ppest.mak
       -pestutl1.mak, pestutl2.mak, pestutl3.mak, pestutl4.mak, pestutl5.mak, pestutl6.mak
